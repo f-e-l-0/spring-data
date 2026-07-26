@@ -1,0 +1,5 @@
+com/example/inventory/InheritanceAndCompositeKeyTest.class
+com/example/inventory/LockingIntegrationTest.class
+com/example/inventory/ProductRepositoryTest.class
+com/example/inventory/SoftDeleteAndAuditingTest.class
+com/example/inventory/TransactionPropagationTest.class
